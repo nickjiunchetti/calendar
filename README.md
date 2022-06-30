@@ -1,34 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# React Challenge
 
-## Getting Started
+## How to deploy
 
-First, run the development server:
+- Run `npm install` | `yarn` to install all dependencies.
+- Run `npm dev` | `yarn dev` to run the app locally.
+- You can find the project running on `localhost:3000`.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+image.png
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# Comments
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+This calendar was made as a coding challenge for a position. It required to build the calendar by hand, the feature to add reminders, and get the weather data for the day of the reminder.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# Mandatory Features
 
-## Learn More
+- Create and Style Calendar (x)
+- Ability to add, edit and remove reminders (x)
+- Weather forecast for the reminder of the calendar (x)
 
-To learn more about Next.js, take a look at the following resources:
+# Optional Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Expand the calendar to support more than the current month or year (x)
+- Properly handle overflow when multiple reminders appear on the same date (x)
+- Unit test the functionality: Ability to add "reminders" (x)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+# Extra Features
 
-## Deploy on Vercel
+- Data Persisted in Local Storage (x)
+- Only react state management used (x)
+- Only vanilla css used (x)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# What I would work next
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Use a modal to add/edit reminders
+- Improve the reminders UI/styling
+- Look for another api for the city search
