@@ -8,7 +8,7 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/47458202/176756674-b8b27324-0cd7-4316-8e44-1f44bc16dd3a.png)
+![image](https://user-images.githubusercontent.com/47458202/176757037-2c2f2d8c-ae54-41fa-b5dd-19fc43fa13e8.png)
 
 # Comments
 
