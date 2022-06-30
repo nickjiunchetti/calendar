@@ -1,4 +1,4 @@
-# React Challenge
+# React Calendar Challenge
 
 ## How to deploy
 
@@ -8,7 +8,7 @@
 
 ---
 
-image.png
+![image](https://user-images.githubusercontent.com/47458202/176756674-b8b27324-0cd7-4316-8e44-1f44bc16dd3a.png)
 
 # Comments
 
